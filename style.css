@@ -1,0 +1,104 @@
+<style>
+    /* General body styling */
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 20px;
+        padding: 20px;
+        background-color: #f4f4f4;
+    }
+
+    /* Styling for headings */
+    h1 {
+        color: #333;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    /* Styling for the ordered list */
+    ol {
+        background-color: #fff;
+        padding: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    ol li {
+        margin: 5px 0;
+        color: #555;
+    }
+
+    /* Styling for the image */
+    img {
+        display: block;
+        margin: 20px auto;
+        max-width: 100%;
+        border: 5px solid #ddd;
+        border-radius: 10px;
+    }
+
+    /* Styling for the table */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        background-color: #fff;
+    }
+
+    table th, table td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+    }
+
+    table th {
+        background-color: #f4f4f4;
+        color: #333;
+    }
+
+    table caption {
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
+    /* Styling for the form */
+    form {
+        background-color: #fff;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        max-width: 600px;
+        margin: 20px auto;
+    }
+
+    form label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+
+    form input, form select, form button {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
+    form button {
+        background-color: #333;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+    }
+
+    form button:hover {
+        background-color: #555;
+    }
+
+    /* Styling for the audio player */
+    audio {
+        display: block;
+        margin: 20px auto;
+    }
+</style>
